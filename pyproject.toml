@@ -15,6 +15,9 @@ dependencies = [
     "jupyter>=1.0.0",
     "langgraph-cli[inmem]>=0.4.0",
     "python-dotenv>=1.2.1",
+    "graphviz>=0.21",
+    "pygraphviz>=1.14",
+    "rich>=14.2.0",
 ]
 
 [project.optional-dependencies]
