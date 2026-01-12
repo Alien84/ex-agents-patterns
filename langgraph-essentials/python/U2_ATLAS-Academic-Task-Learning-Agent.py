@@ -27,6 +27,7 @@
 # 
 
 # Utilities
+
 import operator
 from functools import reduce
 from typing import Annotated, List, Dict, TypedDict, Literal, Optional, Callable, Set, Tuple, Any, Union, TypeVar
